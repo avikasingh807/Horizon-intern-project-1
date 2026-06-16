@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+/* NAVBAR */
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: black;
+  color: white;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+/* HOME */
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 90vh;
+}
+
+.home img {
+  width: 250px;
+  border-radius: 50%;
+}
+
+button {
+  padding: 10px 20px;
+  background: black;
+  color: white;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+/* ABOUT */
+.about {
+  padding: 50px;
+  text-align: center;
+}
+
+/* SKILLS */
+.skills {
+  padding: 50px;
+}
+
+.skill {
+  margin: 20px 0;
+}
+
+.bar {
+  width: 100%;
+  height: 10px;
+  background: #ddd;
+}
+
+.fill {
+  height: 10px;
+}
+
+.html { width: 90%; background: orange; }
+.css { width: 80%; background: blue; }
+.js { width: 60%; background: green; }
+
+/* CONTACT */
+.contact {
+  padding: 50px;
+  text-align: center;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: black;
+  color: white;
+}
