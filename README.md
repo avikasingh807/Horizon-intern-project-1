@@ -1,3 +1,4 @@
+
 # 🌐 Personal Portfolio Website
 
 This is my personal portfolio website built using HTML and CSS.  
@@ -35,3 +36,5 @@ Avika Singh
 Email: avika@email.com
 
 ## Github Link: https://github.com/avikasingh807/Horizon-intern-project-1
+
+## live project link : https://avikasingh807.github.io/Horizon-intern-project-1/
